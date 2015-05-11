@@ -4,8 +4,10 @@
 function [bestacc,besto,bestg,feature,cg,X,Y] = MLFRScgForClass_w1(train_data,train_target,test_data,test_target,omin,omax,gmin,gmax,ostep,gstep)
 %SVMcg cross validation by faruto
 
-%% 2hh33333
+%%
 % by faruto
+%Email:patrick.lee@foxmail.com QQ:516667408 http://blog.sina.com.cn/faruto BNU
+%last modified 2010.01.17
 
 %% Èô×ªÔØÇë×¢Ã÷£º
 % faruto and liyang , LIBSVM-farutoUltimateVersion 
